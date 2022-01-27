@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# My REACT Porfolio Project
+### Converting my plain HTML website into a dynamic React one.
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
